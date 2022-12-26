@@ -67,4 +67,9 @@ h2{
 .btn-1 {
     background-color: #000000;
 }
+
+.hero-title{
+    font-size: 30px;
+    margin-left: 15%;
+}
 /* header end*/

@@ -33,4 +33,44 @@
 
 /* main 2 begines */
 
+.main2-container{
+    
+    height: 600px;
+    width: 90%;
+    margin: auto;
+}
+.inner{
+    
+    height: 200px;
+    width: 100%;
+    margin: 15% auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.list-img{
+    margin: 7% 7% 0 0;
+}
+img {
+    height: 100px;
 
+}
+.list {
+    display: flex;
+    width: 50%;
+    margin: 3% 3% 10% 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.list-text{
+    font-size: 20px;
+}
+.hero-title{
+    font-size: 30px;
+    margin-left: 15%;
+}
+
+.list-text a{
+    color: #4C5FD5;
+}
+/* main 2 ends */
