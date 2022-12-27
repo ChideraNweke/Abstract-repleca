@@ -35,3 +35,10 @@ li {
     font-size: 18px;
     padding-left: 0;
 }
+.footer-copyright{
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+    display: block;
+    font-size: larger;
+}
